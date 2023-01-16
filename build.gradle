@@ -49,6 +49,7 @@ allure {
     }
 }
 
+
 test {
     useJUnitPlatform()
 }
